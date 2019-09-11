@@ -1,2 +1,2 @@
-# UpdatedPortfolioPage
-Updated Portfolio Page
+# Responsive-Portfolio
+Assignment 2
